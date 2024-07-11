@@ -1,5 +1,6 @@
 ## Let's Go
 `Let's Go` is a to-do list application written in `Go` with `Gin` and `Gorm` framework
+![Screenshot](Screenshot/Screenshot.png)
 
 ## Prerequisite
 - Gin
@@ -19,7 +20,7 @@ go get github.com/joho/godotenv
 ## Installation
 - Clone this repo
 ```
-git clone
+git clone https://github.com/moseicshen/LetsGo.git
 ```
 - Change into the dir
 ```
