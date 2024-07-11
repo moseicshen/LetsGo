@@ -1,5 +1,6 @@
 ## Let's Go
 `Let's Go` is a to-do list application written in `Go` with `Gin` and `Gorm` framework
+
 ![Screenshot](Screenshot/Screenshot.png)
 
 ## Prerequisite
